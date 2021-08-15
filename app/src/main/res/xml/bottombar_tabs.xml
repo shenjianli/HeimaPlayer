@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_home"
+        icon="@mipmap/tab_shouye_pre"
+        title="首页" />
+    <tab
+        id="@+id/tab_mv"
+        icon="@mipmap/tab_shop_pre"
+        title="MV" />
+    <tab
+        id="@+id/tab_vb"
+        icon="@mipmap/tab_fuli_pre"
+        title="V榜" />
+
+    <tab
+        id="@+id/tab_yd"
+        icon="@mipmap/tab_mine_pre"
+        title="悦单" />
+</PreferenceScreen>
